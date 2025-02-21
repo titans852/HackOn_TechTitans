@@ -1,0 +1,18 @@
+QuestFit/
+├── backend/
+│   ├── models/              # Database models
+│   ├── routes/              # API routes
+│   ├── controllers/         # Business logic
+│   ├── config/              # Configuration files
+│   └── server.js            # Entry point for backend
+├── frontend/
+│   ├── public/              # Static files
+│   ├── src/
+│   │   ├── components/      # React components
+│   │   ├── pages/           # App pages
+│   │   ├── styles/          # CSS files
+│   │   ├── App.js           # Main app component
+│   │   └── index.js         # Entry point for frontend
+│   └── package.json         # Frontend dependencies
+├── README.md                # Project documentation
+└── .gitignore               # Files to ignore in Git
